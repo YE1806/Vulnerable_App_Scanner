@@ -13,4 +13,4 @@ python3 vuln_scanner.py
 
 Version: 0.1
 
-If there are any problems, issues or advises, just contact me -> muesluem.eren@gmail.com
+If there are any problems, issues or advises, create an issue in this repository.
